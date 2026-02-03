@@ -1,14 +1,14 @@
 const msgs = [
-    "Are you sure?",
-    "Are you really sure?",
-    "Are you really really sure?",
-    "Pretty pleaseeeee?",
-    "Pretty pretty pleaseeeee?",
-    "If you say no, I will be very sad...",
-    "I will be very sad...",
-    "I will be very very sad...",
-    "Okay, I'm done...you can go now.",
-    "Just kidding, say yes please! 🩷"
+    "t'es surrr",
+    "sara prk tu insiste noo",
+    "putain tes tute toi",
+    "tamelhantiww dila3nayam oui",
+    "saronnnnnnnnnn dit oui",
+    "j vais te facher si non",
+    "ad echhagh",
+    "mo9arooooo n sarsora apuis oui",
+    "zrigh themeldiyi mais dzkara",
+    "mais nk hemlaghkm achogher iyitkhedmed aka 🩷"
 ]
 
 let msgIndex = 0;
