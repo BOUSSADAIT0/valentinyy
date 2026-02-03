@@ -3,10 +3,10 @@ const msgs = [
     "sara prk tu insistes noo",
     "putain tes tetu toi",
     "tamelhantiww dila3nayam oui",
-    "saronnnnnnnnnn dit oui",
+    "seronnnnnnnnnn dit oui",
     "j vais te facher si non",
     "ad echhagh",
-    "mo9arooooo n sarsora apuis oui",
+    "mo9arooooo n sarsora appuies oui",
     "zrigh themeldiyi mais dzkara",
     "mais nk hemlaghkm achogher iyitkhedmed aka 🩷"
 ]
