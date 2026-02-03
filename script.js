@@ -1,7 +1,7 @@
 const msgs = [
     "t'es surrr",
-    "sara prk tu insiste noo",
-    "putain tes tute toi",
+    "sara prk tu insistes noo",
+    "putain tes tetu toi",
     "tamelhantiww dila3nayam oui",
     "saronnnnnnnnnn dit oui",
     "j vais te facher si non",
